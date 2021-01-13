@@ -1,0 +1,31 @@
+Are you curious about making you resources visible in your program?
+In Eclipse, use the Java Build Path to build classpaths in order to compile your work. Eclipse has several options for building paths, including building paths from source folders, libraries and projects. You can also edit your classpaths in order to adapt to ongoing changes in your project.
+Right click on the name of the project that you want to build a classpath for in the Package Explorer bar. Click "Build Path" and then choose "Configure Build Path...".
+Click "Add Folder..." to add the source that you want to build the path from in the Source tab.
+That's all! Do you have more questions? Just ask your trainers, they can help you.
+This number in next word required to check if you wrote correct regexp for words.
+|===========================================================================|
+|    №    |                     Sentence                     | Word's Count |
+|===========================================================================|
+|    1    |                   That's all                    |       2       |
+|---------------------------------------------------------------------------|
+|    2    |           Do you have more questions            |       5       |
+|---------------------------------------------------------------------------|
+|    3    |      Just ask your trainers they can help       |       8       |
+|---------------------------------------------------------------------------|
+|    4    |        Click Build Path and then choose         |       9       |
+|---------------------------------------------------------------------------|
+|    5    |        Are you curious about making you         |      11      |
+|---------------------------------------------------------------------------|
+|    6    |      This number in next word required to       |      15      |
+|---------------------------------------------------------------------------|
+|    7    |      In Eclipse use the Java Build Path to       |      16      |
+|---------------------------------------------------------------------------|
+|    8    |         Eclipse has several options for          |      16      |
+|---------------------------------------------------------------------------|
+|    9    |      You can also edit your classpaths in       |      16      |
+|---------------------------------------------------------------------------|
+|    10    |     Click Add Folder to add the source that      |      19      |
+|---------------------------------------------------------------------------|
+|    11    |     Right click on the name of the project      |      21      |
+|---------------------------------------------------------------------------|

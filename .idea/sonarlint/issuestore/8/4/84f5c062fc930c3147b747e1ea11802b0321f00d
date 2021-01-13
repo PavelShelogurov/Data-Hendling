@@ -1,0 +1,10 @@
+
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(µÎ Àúÿÿÿÿ8ì¿ÅÜ.
+š
+java:S1130
+"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(·³ÿ¼øÿÿÿÿ8ŠÉÁÅÜ.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(µ’–öúÿÿÿÿ8—¾ûÕŞ.
+X
+java:S1068"6Remove this unused "REGULAR_NEW_STRING" private field.(µ’–öúÿÿÿÿ8àÕŸà.
